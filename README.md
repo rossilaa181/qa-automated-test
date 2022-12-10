@@ -2,11 +2,11 @@
 
 1. TC-001 = User dapat mengakses halaman tampilan kalkulator faktorial
 
-## KLT-2 = Melakukan Perhitungan Menggunakan Kalkulator Faktorial
+## FTR-2 = Melakukan Perhitungan Menggunakan Kalkulator Faktorial
 
 1. TC-001 = User melakukan perhitungan faktorial dengan tidak memasukkan input (field input kosong)
 2. TC-002 = User melakukan perhitungan faktorial dengan memasukkan input berupa bilangan bulat
-3. TC-003 = User melakukan perhitungan faktorial dengan memasukkan input berupa bilangan bulat kurang dari 170
+3. TC-003 = User melakukan perhitungan faktorial dengan memasukkan input bilangan bulat kurang dari 170
 4. TC-004 = User melakukan perhitungan faktorial dengan memasukkan input berupa bilangan bulat 170
 5. TC-005 = User melakukan perhitungan faktorial dengan memasukkan input berupa bilangan bulat lebih dari 170
 6. TC-006 = User melakukan perhitungan faktorial dengan memasukkan input berupa bilangan bulat negatif
